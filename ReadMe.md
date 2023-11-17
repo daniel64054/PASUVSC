@@ -19,3 +19,9 @@ Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 - Instalação gcc
 - Configuração de portas no virtual box
 - Acesso via ssh no vs code
+<hr>
+
+### Ubuntu Server
+O Ubuntu Server é uma distribuição GNU/Linux que é mantida pela empresa canonical usando como base o código  fonte do sistema Debian. O Sistema tem foco em  servidores do mercado  corporativo. Existe no Brasil e no mundo uma grande demanda por profissionais que  estejam aptos a utilizar e administrar servidores Linux.
+PARA fazer o download clique no lique abaixo
+<a href="https://ubuntu.com/download/server">ubuntu server 22.04</a>
