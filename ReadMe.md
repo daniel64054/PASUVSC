@@ -23,7 +23,7 @@ Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 
 ### Ubuntu Server
 O Ubuntu Server é uma distribuição GNU/Linux que é mantida pela empresa canonical usando como base o código  fonte do sistema Debian. O Sistema tem foco em  servidores do mercado  corporativo. Existe no Brasil e no mundo uma grande demanda por profissionais que  estejam aptos a utilizar e administrar servidores Linux.
-PARA fazer o download clique no link abaixo
+PARA fazer o download clique no link abaixo <br>
 <a href="https://ubuntu.com/download/server">ubuntu server 22.04</a>
 <hr>
 
@@ -35,5 +35,5 @@ VirtualBox é um software de virtualização de código aberto desenvolvido pela
 
 Assim, o software emula um computador completo, incluindo sistemas operacionais e aplicativos.
 
-PARA fazer o download clique no link abaixo
-<a href="https://www.virtualbox.org/wiki/Downloads">virtual box</a>
+PARA fazer o download clique no link abaixo <br>
+<a href="https://www.virtualbox.org/wiki/Downloads">virtual box  7.0.12</a>
