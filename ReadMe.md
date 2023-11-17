@@ -2,12 +2,8 @@
 
 ## Veremos abaixo as ferramenta utilizadas
 
-<img src=ubuntulogo.png width=100 height=100>
-<img src=clogo.png width=100 height=100>
-<img src=cockpitlogo.png width=100 height=100>
-<img src=sshlogo.png width=100 height=100>
-<img src=gitlogo.png width=100 height=100>
-<img src=VBlogo.png width=100 height=100>
+<img src=ubuntulogo.png width=100 height=100><img src=clogo.png width=100 height=100><img src=cockpitlogo.png width=100 height=100><img src=sshlogo.png width=100 height=100><img src=gitlogo.png width=100 height=100><img src=VBlogo.png width=100 height=100><img src=VScode.png width=100 height=100>
+
 Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
  
 
