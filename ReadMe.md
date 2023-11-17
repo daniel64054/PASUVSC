@@ -2,6 +2,8 @@
 
 ## Veremos abaixo as ferramenta utilizadas
 
+! ["logo ubuntu"]("./ubuntulogo.png")
+
 Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
  
 
