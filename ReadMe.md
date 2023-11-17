@@ -5,13 +5,13 @@
 Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
  
 
-- Donload do sistema operacional linux
+- Download do sistema operacional linux
 - Ubuntu sever
-- configuração da maquina virtual no virtual box
-- instalação do sistema operacional na máquina criada
-- atualização do sistema operacional
-- instalação cockpit
-- instalação git
-- instalação gcc
-- configuração de portas no virtual box
-- acesso via ssh no vs code
+- Configuração da maquina virtual no virtual box
+- Instalação do sistema operacional na máquina criada
+- Atualização do sistema operacional
+- Instalação cockpit
+- Instalação git
+- Instalação gcc
+- Configuração de portas no virtual box
+- Acesso via ssh no vs code
