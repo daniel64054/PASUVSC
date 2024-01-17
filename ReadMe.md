@@ -1,4 +1,4 @@
-# Prepação de Ambiente para servidor Ubuntu Acessando via visual studio Code
+# Preparação de Ambiente para servidor Ubuntu Acessando via visual studio Code
 
 ## Veremos abaixo as ferramenta utilizadas
 
